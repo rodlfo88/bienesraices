@@ -2,7 +2,7 @@ Proyecto Bienes Raíces
 
 Descripción:
 
-Desarrollé un sitio web para una empresa de bienes raíces que muestra listados de propiedades disponibles para la venta. Utilicé Sass para escribir estilos CSS de manera más eficiente y estructurada, organizando los estilos en diferentes archivos para facilitar el mantenimiento. También empleé JavaScript para agregar interactividad a la página, como la manipulación del DOM y la carga dinámica de contenido. Para automatizar tareas repetitivas, como la compilación de Sass, la minificación de JavaScript y la optimización de imágenes, implementé Gulp como mi herramienta de automatización de tareas.
+Desarrollé un sitio web de bienes raíces que muestra listados de propiedades disponibles para la venta. Utilicé Sass para escribir estilos CSS de manera más eficiente y estructurada, organizando los estilos en diferentes archivos para facilitar el mantenimiento. También empleé JavaScript para agregar interactividad a la página, como la manipulación del DOM y la carga dinámica de contenido. Para automatizar tareas repetitivas, como la compilación de Sass, la minificación de JavaScript y la optimización de imágenes, implementé Gulp como mi herramienta de automatización de tareas.
 
 Tecnologías Utilizadas:
 
