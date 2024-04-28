@@ -1,0 +1,21 @@
+.footer {
+    background-color: $grisOscuro;
+    padding: calc(#{$separacion} / 2); /* Utiliza la interpolación para calcular el valor de la variable */
+    margin-bottom: 0;
+
+    .contenedor-footer {
+        padding: calc(#{$separacion} / 2); /* Utiliza la interpolación para calcular el valor de la variable */
+    }
+
+    .navegacion{
+        visibility: visible;
+        opacity: 1;
+    }
+
+    .copyright {
+        color: $blanco;
+        text-align: center;
+    }
+}
+
+
